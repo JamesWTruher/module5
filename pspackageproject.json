@@ -1,0 +1,8 @@
+{
+  "HelpPath": "help",
+  "Culture": "en-US",
+  "BuildOutputPath": "out",
+  "SourcePath": "src",
+  "TestPath": "test",
+  "ModuleName": "module5"
+}
